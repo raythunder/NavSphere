@@ -1544,6 +1544,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768973443972",
+      "title": "中转站",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
